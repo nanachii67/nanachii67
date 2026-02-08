@@ -1,10 +1,10 @@
-#Hewwo!
+# Hewwo!
 
-##I'm Koguma Rin, Kogs for short; I make music and designs, nice to meet you!~
+## I'm Koguma Rin, Kogs for short; I make music and designs, nice to meet you!~
 
-###This is where you'll see old repositories and shenanigans that I have been working on for the past years.
+### This is where you'll find old repositories and projects that I have been working on over the past few years.
 
-###I use mainly React, so I use TypeScript. I am also currently learning how to use Svelte.
+### I use React, so I use TypeScript. I am also currently learning how to use Svelte.
 <!--
 **nanachii67/nanachii67** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
